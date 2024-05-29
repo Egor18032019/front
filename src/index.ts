@@ -1,4 +1,4 @@
 import {someFn} from "./test";
 
-someFn(123)
-// document.body.innerHTML = '<div>Hello! </div>'
+someFn(345)
+document.body.innerHTML = '<div>Hello! </div>'
